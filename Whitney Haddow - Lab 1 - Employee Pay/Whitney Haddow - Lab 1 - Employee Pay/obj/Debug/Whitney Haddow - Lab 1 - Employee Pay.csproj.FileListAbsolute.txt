@@ -1,0 +1,12 @@
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Whitney Haddow - Lab 1 - Employee Pay\Whitney Haddow - Lab 1 - Employee Pay\bin\Debug\Whitney Haddow - Lab 1 - Employee Pay.exe.config
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Whitney Haddow - Lab 1 - Employee Pay\Whitney Haddow - Lab 1 - Employee Pay\bin\Debug\Whitney Haddow - Lab 1 - Employee Pay.exe
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Whitney Haddow - Lab 1 - Employee Pay\Whitney Haddow - Lab 1 - Employee Pay\bin\Debug\Whitney Haddow - Lab 1 - Employee Pay.pdb
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Whitney Haddow - Lab 1 - Employee Pay\Whitney Haddow - Lab 1 - Employee Pay\obj\Debug\Whitney Haddow - Lab 1 - Employee Pay.csprojResolveAssemblyReference.cache
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Whitney Haddow - Lab 1 - Employee Pay\Whitney Haddow - Lab 1 - Employee Pay\obj\Debug\Whitney_Haddow___Lab_1___Employee_Pay.frmEmployeePay.resources
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Whitney Haddow - Lab 1 - Employee Pay\Whitney Haddow - Lab 1 - Employee Pay\obj\Debug\Whitney_Haddow___Lab_1___Employee_Pay.Properties.Resources.resources
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Whitney Haddow - Lab 1 - Employee Pay\Whitney Haddow - Lab 1 - Employee Pay\obj\Debug\Whitney Haddow - Lab 1 - Employee Pay.csproj.GenerateResource.Cache
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Whitney Haddow - Lab 1 - Employee Pay\Whitney Haddow - Lab 1 - Employee Pay\obj\Debug\Whitney Haddow - Lab 1 - Employee Pay.exe
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Whitney Haddow - Lab 1 - Employee Pay\Whitney Haddow - Lab 1 - Employee Pay\obj\Debug\Whitney Haddow - Lab 1 - Employee Pay.pdb
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Labs\Whitney Haddow - Lab 1 - Employee Pay\Whitney Haddow - Lab 1 - Employee Pay\bin\Debug\Whitney Haddow - Lab 1 - Employee Pay.exe.config
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Labs\Whitney Haddow - Lab 1 - Employee Pay\Whitney Haddow - Lab 1 - Employee Pay\obj\Debug\Whitney Haddow - Lab 1 - Employee Pay.exe
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Labs\Whitney Haddow - Lab 1 - Employee Pay\Whitney Haddow - Lab 1 - Employee Pay\obj\Debug\Whitney Haddow - Lab 1 - Employee Pay.pdb
